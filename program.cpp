@@ -14,4 +14,5 @@ int main() {
     // input logic
     cout << "The maximum number is: " << max << endl;
     return 0;
+    
 }
